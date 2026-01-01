@@ -6,8 +6,6 @@
 
 Recruiter at OpenAI. Previously Meta, Google, X-Team (CPO).
 
-I've never written a line of code. I describe what I want and AI builds it.
-
 Spent 13 years hiring engineers. Reviewed 50,000+ resumes. Got tired of watching people make the same mistakes. So I built something.
 
 ---
@@ -20,16 +18,17 @@ Spent 13 years hiring engineers. Reviewed 50,000+ resumes. Got tired of watching
 
 ---
 
-### Stack
+### How I Build
 
-Claude, Gemini, ChatGPT, coffee.
+I describe what I want. AI builds it.
+
+**AI:** Claude, Gemini, ChatGPT, Codex CLI
+
+**The code underneath:** Next.js, React, TypeScript, Tailwind, Supabase, Vercel
 
 ---
 
-### Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matsha05&show_icons=true&theme=transparent&hide_border=true&hide_title=true&hide_rank=true)
 
 ---
 
