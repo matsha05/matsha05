@@ -1,6 +1,6 @@
 # Matt Shaw
 
-![Typing SVG](https://readme-typing-svg.demo lab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=888888&vCenter=true&width=500&lines=recruiter+at+openai;never+written+a+line+of+code;shipping+apps+anyway)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=888888&vCenter=true&width=500&lines=recruiter+at+openai;never+written+a+line+of+code;shipping+apps+anyway)
 
 ---
 
@@ -28,7 +28,7 @@ I describe what I want. AI builds it.
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matsha05&show_icons=true&theme=transparent&hide_border=true&hide_title=true&hide_rank=true)
+![Matt's GitHub contributions](https://ghchart.rshah.org/409ba5/matsha05)
 
 ---
 
