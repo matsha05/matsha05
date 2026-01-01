@@ -6,7 +6,7 @@
 
 **I've never written a line of code in my life.**
 
-And somehow I shipped a production app anyway. 🤷‍♂️
+Now I ship apps. Still don't know what a for-loop is.
 
 ---
 
