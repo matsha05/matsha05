@@ -1,34 +1,52 @@
-### Hey, I'm Matt 👋
+<div align="center">
 
-Recruiter at **OpenAI**. Previously Meta, Google, X-Team.
+# Matt Shaw
 
-I've never written a line of code. I describe what I want and AI builds it.
+**I've never written a line of code.**
 
----
+Recruiter at OpenAI. Previously Meta, Google, X-Team (CPO).
 
-#### What I'm building
+13 years hiring engineers. 50,000+ resumes reviewed. Now I build.
 
-[**Recruiter in Your Pocket**](https://recruiterinyourpocket.com) — AI-powered resume feedback from someone who's reviewed 50,000+ resumes.
-
-[**lizishaw.com**](https://lizishaw.com) — My wife's author platform.
+</div>
 
 ---
 
-#### How I build
+<table>
+<tr>
+<td width="50%">
 
-![Claude](https://img.shields.io/badge/Claude-191919?style=flat&logo=anthropic&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=google&logoColor=white)
-![Codex CLI](https://img.shields.io/badge/Codex_CLI-412991?style=flat&logo=openai&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat&logo=google&logoColor=white)
+### What I'm shipping
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+**[Recruiter in Your Pocket](https://recruiterinyourpocket.com)**
+AI resume feedback from someone who's been on the other side.
+
+**[lizishaw.com](https://lizishaw.com)**
+My wife's author platform.
+
+</td>
+<td width="50%">
+
+### How I build
+
+I describe what I want. AI writes the code.
+
+**Tools:** Claude, Gemini, ChatGPT, Codex CLI, Cursor, Antigravity
+
+**Stack:** Next.js, TypeScript, Tailwind, Supabase, Vercel
+
+</td>
+</tr>
+</table>
 
 ---
 
-📍 Niwot, CO · [LinkedIn](https://linkedin.com/in/mattrshaw)
+<div align="center">
+
+*The best way to understand engineering is to ship something.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mattrshaw)
+
+📍 Niwot, CO
+
+</div>
