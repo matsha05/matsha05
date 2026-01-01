@@ -1,52 +1,15 @@
-<div align="center">
+### hey, i'm matt 👋
 
-# Matt Shaw
+recruiter at **openai**. prev meta, google, x-team.
 
-**I've never written a line of code.**
-
-Recruiter at OpenAI. Previously Meta, Google, X-Team (CPO).
-
-13 years hiring engineers. 50,000+ resumes reviewed. Now I build.
-
-</div>
+i've never written a line of code. i describe what i want, ai builds it.
 
 ---
 
-<table>
-<tr>
-<td width="50%">
+**now:** [recruiter in your pocket](https://recruiterinyourpocket.com) — ai resume feedback
 
-### What I'm shipping
-
-**[Recruiter in Your Pocket](https://recruiterinyourpocket.com)**
-AI resume feedback from someone who's been on the other side.
-
-**[lizishaw.com](https://lizishaw.com)**
-My wife's author platform.
-
-</td>
-<td width="50%">
-
-### How I build
-
-I describe what I want. AI writes the code.
-
-**Tools:** Claude, Gemini, ChatGPT, Codex CLI, Cursor, Antigravity
-
-**Stack:** Next.js, TypeScript, Tailwind, Supabase, Vercel
-
-</td>
-</tr>
-</table>
+**stack:** claude · cursor · antigravity · codex · next.js · supabase
 
 ---
 
-<div align="center">
-
-*The best way to understand engineering is to ship something.*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mattrshaw)
-
-📍 Niwot, CO
-
-</div>
+📍 niwot, co · [@mattrshaw](https://linkedin.com/in/mattrshaw)
