@@ -28,8 +28,4 @@ I describe what I want. AI builds it.
 
 ---
 
-![Matt's GitHub contributions](https://ghchart.rshah.org/409ba5/matsha05)
-
----
-
 [LinkedIn](https://linkedin.com/in/mattrshaw) · Niwot, CO
